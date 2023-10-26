@@ -1,0 +1,16 @@
+{
+  "name": "media-app-backend",
+  "version": "1.0.0",
+  "description": "backend for media app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Neerav",
+  "license": "ISC",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.17.4",
+    "server": "^1.0.38"
+  }
+}
